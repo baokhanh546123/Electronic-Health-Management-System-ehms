@@ -42,5 +42,6 @@ EHMS là một hệ thống quản lý sức khỏe điện tử được thiế
 ```bash
 git clone https://github.com/baokhanh546123/Electronic-Health-Management-System-ehms.git
 cd Electronic-Health-Management-System-ehms
+```
 
 ### 2.Chạy dự án bằng file JAR trong mục target
