@@ -10,9 +10,6 @@ EHMS là một hệ thống quản lý sức khỏe điện tử được thiế
 - 💊 **Đơn thuốc và chẩn đoán**  
   Ghi lại kết quả khám và đơn thuốc được kê cho từng lần khám.
 
-- 📈 **Ghi nhận thông tin**  
-  Xuất báo cáo về số lượng bệnh nhân, lịch sử khám chữa bệnh, thuốc đã kê,…
-
 - 👩‍⚕️ **Quản lý nhân sự y tế**  
   Tạo tài khoản  cho bác sĩ, dược sĩ , ... 
 
